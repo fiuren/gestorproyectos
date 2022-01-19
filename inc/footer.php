@@ -10,6 +10,7 @@
   background-color: #efefef;
   text-align: center;
 }
+
 </style>
 </body>
 </html>
