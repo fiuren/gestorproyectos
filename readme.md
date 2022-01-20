@@ -11,6 +11,9 @@
 Se hace acopio de phpGrid, el cual ayuda a implementar una serie de estilos y tablas tal y como podremos comprobar en la aplicación; ante su complejidad a la hora de modificar los archivos de estilo, solo se han modificado el resalte que obtenemos al pasar el ratón por encima de los elementos de las tablas y la pantalla de inicio. Dicho estilo de la página es totalmente modificable a cada gusto personal.
 
 Por último, los archivos se pueden modificar, borrar e incluir a través de la aplicación o de la base de datos.
+<img src="https://user-images.githubusercontent.com/89069423/150301162-f20dea81-cf17-457e-8278-f0f51b0491e8.png"/>
+
+
 
 Para la realización de dicho tutorial se ha usado el siguiente tutorial:
 
